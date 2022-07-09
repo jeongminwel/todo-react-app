@@ -5,7 +5,7 @@ class Todo extends React.Component {
       this.state = {
           items : [
             { id : "1", title : "first", done: true },
-            { id : "2", title : "second", done: false},
+            { id : "2", title : "second", done: false },
           ]
         }
     }

@@ -6,7 +6,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      item: { id:0, title: "jeongmin", done: true},
+      item: { id:0, title: "jeongmin", done: true },
     };
   }
 
